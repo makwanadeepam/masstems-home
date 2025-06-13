@@ -2,61 +2,51 @@ import type { Props as ExperienceProp } from "../components/experience/props";
 
 export const EXPERIENCE: ExperienceProp[] = [
   {
-    dates: "November 2021 — Present",
-    title: "Full Stack Engineer",
-    company: "Dutch Pet (Remote)",
-    companyUrl: "https://www.dutch.com",
-    description:
-      "Designed and architected dutch.com, utilizing technologies such as Shopify Storefront API, Admin API, Vue.JS, Node.JS, Liquid, Alpine.js, and Tailwind. Worked on integrating with the ReCharge subscription system and collaborated closely with designers to implement pixel-perfect layouts and user flows.",
-    technologies: [
-      "Shopify Storefront API",
-      "Shopify Admin API",
-      "Vue.JS",
-      "Node.JS",
-      "Liquid",
-      "Alpine.js",
-      "Tailwind",
-    ],
-    logo: "/logos/dutchpet.jpeg",
+    "dates": "",
+    "title": "",
+    "company": "",
+    "companyUrl": "",
+    "description": "We specialize in automating routine customer service tasks, reducing wait times and improving user experiences through intelligent chatbots and virtual assistants.",
+    "technologies": ["AI", "Natural Language Processing", "Chatbots", "Virtual Assistants"]
   },
   {
-    dates: "March 2021 — November 2021",
-    title: "Full Stack Ecommerce Engineer",
-    company: "AbsoluteWeb",
-    companyUrl: "https://www.absoluteweb.com",
-    description:
-      "Developed and maintained e-commerce solutions on Shopify (Storefront API, Admin API), BigCommerce, and Magento using React JS, Vue JS, Node JS, Liquid, SASS/PostCSS. Worked on integrating with the ReCharge subscription system and collaborated closely with designers to implement pixel-perfect layouts and user flows.",
-    technologies: [
-      "React JS",
-      "Vue JS",
-      "Node JS",
-      "Shopify Storefront API",
-      "Shopify Admin API",
-      "BigCommerce",
-      "Magento",
-      "Liquid",
-      "SASS/PostCSS",
-    ],
-    logo: "/logos/aws.jpeg",
+    "dates": "",
+    "title": "",
+    "company": "",
+    "companyUrl": "",
+    "description": "We provide AI-driven predictive analytics tools that help businesses forecast trends, customer behavior, and market demands to optimize decision-making and strategy.",
+    "technologies": ["AI", "Predictive Analytics", "Big Data", "Business Intelligence"]
   },
   {
-    dates: "December 2019 — January 2021",
-    title: "Product Designer",
-    company: "Miinto",
-    companyUrl: "https://www.miinto.com",
-    description:
-      "Created a Design System for the internal system using Figma. Developed a plugin for Figma to populate prototypes with real data to enhance the prototyping and testing experience. Conducted user research and testing, and created user flows, wireframes, and Hi-Fi prototypes.",
-    technologies: ["Figma"],
-    logo: "/logos/miinto.jpeg",
+    "dates": "",
+    "title": "",
+    "company": "",
+    "companyUrl": "",
+    "description": "Our AI solutions automate document processing, including data extraction, classification, and compliance checks, significantly reducing manual effort and errors.",
+    "technologies": ["AI", "Optical Character Recognition (OCR)", "Document Automation", "Data Extraction"]
   },
   {
-    dates: "January 2019 — September 2019",
-    title: "Front-End Engineer",
-    company: "Efigence",
-    companyUrl: "https://www.efigence.com",
-    description:
-      "Worked on developing a Polish Government Joint Stock Company website using JS, Magnolia CMS, and FreeMarker.",
-    technologies: ["JavaScript", "Magnolia CMS", "FreeMarker"],
-    logo: "/logos/efigence.jpeg",
+    "dates": "",
+    "title": "",
+    "company": "",
+    "companyUrl": "",
+    "description": "We help businesses optimize their supply chain by using AI to predict demand, manage inventory, and suggest optimal logistics solutions for cost-effective operations.",
+    "technologies": ["AI", "Supply Chain Optimization", "Demand Forecasting", "Inventory Management"]
   },
-];
+  {
+    "dates": "",
+    "title": "",
+    "company": "",
+    "companyUrl": "",
+    "description": "We provide AI-driven marketing automation systems to personalize campaigns, segment audiences, and improve engagement through smarter targeting and content delivery.",
+    "technologies": ["AI", "Marketing Automation", "Customer Segmentation", "Personalization"]
+  },
+  {
+    "dates": "",
+    "title": "",
+    "company": "",
+    "companyUrl": "",
+    "description": "We automate complex business processes across departments such as HR, finance, and operations, eliminating human error and improving efficiency by streamlining workflows and approvals.",
+    "technologies": ["AI", "Robotic Process Automation", "Business Process Automation", "Workflow Optimization"]
+  }
+]
