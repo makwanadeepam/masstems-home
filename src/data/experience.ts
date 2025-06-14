@@ -23,7 +23,7 @@ export const EXPERIENCE: ExperienceProp[] = [
     "company": "",
     "companyUrl": "",
     "description": "Our AI solutions automate document processing, including data extraction, classification, and compliance checks, significantly reducing manual effort and errors.",
-    "technologies": ["AI", "Optical Character Recognition (OCR)", "Document Automation", "Data Extraction"]
+    "technologies": ["AI", "Computer Vision (CV) Detection & Classification", "Optical Character Recognition (OCR)", "Document Automation", "Data Extraction"]
   },
   {
     "dates": "",
